@@ -1,0 +1,6 @@
+IPython
+matplotlib
+ipywidgets
+numpy
+ipympl
+file_reader
